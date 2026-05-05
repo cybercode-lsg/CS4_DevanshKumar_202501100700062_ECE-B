@@ -1,10 +1,3 @@
-# ===============================
-# Case Study 4 - File Handling
-# Name: Your Name
-# Roll No: Your Roll No
-# Section: Your Section
-# ===============================
-
 # ---------- Task 1: Basic File Reading ----------
 file = open("CS4.txt", "r")
 
