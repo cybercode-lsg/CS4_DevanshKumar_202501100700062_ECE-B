@@ -1,0 +1,10 @@
+2026-04-01 10:15:32 INFO User login success user_id=101
+2026-04-01 10:17:45 ERROR Database connection failed
+2026-04-01 10:20:10 WARNING Disk usage at 85%
+2026-04-01 10:25:12 INFO File uploaded successfully user_id=102
+2026-04-01 10:30:55 ERROR Timeout while connecting to server
+2026-04-01 10:32:11 INFO User logout user_id=101
+2026-04-01 10:35:40 WARNING Memory usage high
+2026-04-01 10:40:22 INFO User login success user_id=103
+2026-04-01 10:45:50 ERROR Failed to write file
+2026-04-01 10:50:05 INFO Backup completed successfully
