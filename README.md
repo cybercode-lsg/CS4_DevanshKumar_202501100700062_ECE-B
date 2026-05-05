@@ -1,4 +1,3 @@
-# CS4_DevanshKumar_202501100700062_ECE-B/
 # Case Study 4 – File Handling in Python
 
 ## 👤 Student Details
